@@ -8,7 +8,7 @@ var generateButton = document.getElementById("generate");
 function generatePassword() {
 
 //test to check working
-console.log("hi- this is a test")
+console.log("hi, this is a test")
 //STEP 1 b: I am presented with a series of prompts for password criteria
 //STEP 1 c: I select which criteria to include in the password
 //STEP 1 d: prompted for the length of the password
@@ -16,14 +16,19 @@ console.log("hi- this is a test")
   var length = parseInt(
       prompt('How many characters would you like your password to contain? This must be added as a number'),
     );
+  if (Number.isNaN(length)) {
+    alert('Password length must be provided as a number');
+    return null;
+  }
   if (length <8) {
-    alert ('your password must be over 8 characters');
+    alert ('Your password must be over 8 characters');
     return null;
   }
   if (length >128) {
-    alert ('your password must be under 128 characters');
+    alert ('Your password must be under 128 characters');
     return null;
   }
+ 
 //STEP 3 a: WHEN asked for character types to include in the password
 //STEP 3 b:THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special character
   var useLowercase = confirm(
@@ -41,7 +46,7 @@ console.log("hi- this is a test")
   if (
     useSpecialCharacters === false && useNumbers === false && useLowercase === false &&
     useUppercase === false) {
-    alert('no characters have been selected, please start again');
+    alert('No characters have been selected, please start again');
     return null;
   }
 
