@@ -7,7 +7,7 @@ var generateButton = document.getElementById("generate");
 //STEP 1:I click the button to generate a password
 function generatePassword() {
 
-  //test to check working
+//test to check working
 console.log("hi- this is a test")
 //STEP 1 b: I am presented with a series of prompts for password criteria
 //STEP 1 c: I select which criteria to include in the password
@@ -44,7 +44,7 @@ console.log("hi- this is a test")
     alert('no characters have been selected, please start again');
     return null;
   }
-  
+
 //STEP 4 a:THEN my input should be validated and at least one character type should be selected
 //STEP 4 b:THEN a password is generated that matches the selected criteria
   var specialCharacters = ['@','%','+','\\', '/', "'",'!','#','$','^','?',':',',',')','(','}','{',']','[','~','-','_','.',];
