@@ -1,9 +1,9 @@
 # 03 JavaScript: Password Generator
-for this weeks task we were asked to create a password generator using HTML, CSS and Java Script.
+For this weeks task we were asked to create a password generator using HTML, CSS and Java Script.
 
 We were given start code and asked to modify and add to it to enable the code to work. 
 
-My password includes numbers, lowercase characters, uppercase characters and special characters.
+My password can include; numbers, lowercase characters, uppercase characters and special characters.
 
 We were given the following user story and acceptance criteria;
 
