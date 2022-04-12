@@ -36,6 +36,11 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
+
+These are screen shots of my password genorator:
+
+<img src="https://github.com/ciparkin1/week3-javascript/blob/main/Screenshot%202022-04-11%20at%2020.13.11.png#:~:text=11%20at%2020.13.11.-,png,-Go%20to%20file'>
+
 We were given the following submit requirements;
 
 You are required to submit the following for review:
