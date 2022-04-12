@@ -5,6 +5,8 @@ We were given start code and asked to modify and add to it to enable the code to
 
 My password can include; numbers, lowercase characters, uppercase characters and special characters.
 
+This is the link to my deplotyed password genorator: https://ciparkin1.github.io/week3-javascript/
+
 We were given the following user story and acceptance criteria;
 
 ## User Story
