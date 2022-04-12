@@ -39,9 +39,7 @@ THEN the password is either displayed in an alert or written to the page
 
 These are screen shots of my password genorator:
 
-![Screenshot](images/screenshot1.png)
-
-![alt text](https://github.com/[ciparkin]/[week3-javascript]/blob/[main]/image/screenshot1.png?raw=true)
+![Week3-javascript](images/screenshot1.PNG?raw=true "week3-javascript")
 
 We were given the following submit requirements;
 
