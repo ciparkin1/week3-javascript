@@ -39,7 +39,7 @@ THEN the password is either displayed in an alert or written to the page
 
 These are screen shots of my password genorator:
 
-<img src="screenshot1.png">
+<img src="image/screenshot1.png">
 
 We were given the following submit requirements;
 
