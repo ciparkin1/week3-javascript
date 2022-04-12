@@ -41,6 +41,8 @@ These are screen shots of my password genorator:
 
 ![Screenshot](images/screenshot1.png)
 
+![alt text](https://github.com/[ciparkin]/[week3-javascript]/blob/[main]/image/screenshot1.png?raw=true)
+
 We were given the following submit requirements;
 
 You are required to submit the following for review:
