@@ -40,7 +40,7 @@ THEN the password is either displayed in an alert or written to the page
 These are screen shots of my password genorator:
 
 
-![My Image](images/screenshot1.png)
+![Screenshot](images/screenshot1.png)
 
 We were given the following submit requirements;
 
