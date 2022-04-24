@@ -39,12 +39,7 @@ THEN the password is either displayed in an alert or written to the page
 
 These are screen shot of my password genorator:
 
-<<<<<<< HEAD
-![Week-03-PasswordGenerator](/Users/ciparkin/JS/week3-javascript/images/Screenshot 2022-04-24 at 11.33.45.png?raw=true "Screen Capture")
-=======
->>>>>>> aeb913768bf50cfedb2d794e8604ed8e94354a9f
-
-![Screenshot 2022-04-24 at 11 33 45](https://user-images.githubusercontent.com/100965233/164975757-21f43da3-a4fd-4183-b4b4-d7752f18a7ab.png)
+![Application Homepage](images/Screenshot 2022-04-24 at 11.33.45.png)
 
 We were given the following submit requirements;
 
