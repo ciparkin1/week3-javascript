@@ -39,7 +39,7 @@ THEN the password is either displayed in an alert or written to the page
 
 These are screen shot of my password genorator:
 
-![Application Homepage](images/Screenshot 2022-04-24 at 11.33.45.png)
+![Application Homepage](/images/screenshot_1.png)
 
 We were given the following submit requirements;
 
