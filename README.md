@@ -39,8 +39,7 @@ THEN the password is either displayed in an alert or written to the page
 
 These are screen shots of my password genorator:
 
-
-![Week-03-PasswordGenerator](images/Screenshot 2022-04-24 at 11.33.45.pngraw=true "Screen Capture")
+![Screenshot 2022-04-24 at 11 33 45](https://user-images.githubusercontent.com/100965233/164974972-70b746a1-7f22-424e-8ed1-f86bddf74590.png)
 
 
 We were given the following submit requirements;
