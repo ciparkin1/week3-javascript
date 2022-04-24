@@ -40,7 +40,7 @@ THEN the password is either displayed in an alert or written to the page
 These are screen shots of my password genorator:
 
 
-![Employee data](/images/Screenshot 2022-04-24 at 11.33.45.png?raw=true "Employee Data title")
+![Screenshot 2022-04-24 at 11 33 45](https://user-images.githubusercontent.com/100965233/164975757-21f43da3-a4fd-4183-b4b4-d7752f18a7ab.png)
 
 We were given the following submit requirements;
 
