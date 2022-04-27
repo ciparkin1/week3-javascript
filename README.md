@@ -1,4 +1,6 @@
 # 03 JavaScript: Password Generator
+
+
 For this weeks task we were asked to create a password generator using HTML, CSS and Java Script.
 
 We were given start code and asked to modify and add to it to enable the code to work. 
