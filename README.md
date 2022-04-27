@@ -9,6 +9,10 @@ This is the link to my deplotyed password genorator: https://ciparkin1.github.io
 
 We were given the following user story and acceptance criteria;
 
+These are screen shot of my password genorator:
+
+![Application Homepage](./images/screenshot_1.png)
+
 ## User Story
 
 ```
@@ -37,9 +41,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 
-These are screen shot of my password genorator:
 
-![Application Homepage](./images/screenshot_1.png)
 
 We were given the following submit requirements;
 
